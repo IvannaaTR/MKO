@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Trybulovych_MFE\Trybulovych_MFE\bin\Debug\Trybulovych_MFE.exe.config
+C:\Users\Admin\source\repos\Trybulovych_MFE\Trybulovych_MFE\bin\Debug\Trybulovych_MFE.exe
+C:\Users\Admin\source\repos\Trybulovych_MFE\Trybulovych_MFE\bin\Debug\Trybulovych_MFE.pdb
+C:\Users\Admin\source\repos\Trybulovych_MFE\Trybulovych_MFE\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\Admin\source\repos\Trybulovych_MFE\Trybulovych_MFE\obj\Debug\Trybulovych_MFE.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Trybulovych_MFE\Trybulovych_MFE\obj\Debug\Trybulovych_MFE.Form1.resources
+C:\Users\Admin\source\repos\Trybulovych_MFE\Trybulovych_MFE\obj\Debug\Trybulovych_MFE.Properties.Resources.resources
+C:\Users\Admin\source\repos\Trybulovych_MFE\Trybulovych_MFE\obj\Debug\Trybulovych_MFE.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Trybulovych_MFE\Trybulovych_MFE\obj\Debug\Trybulovych_MFE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Trybulovych_MFE\Trybulovych_MFE\obj\Debug\Trybulovych_MFE.csproj.CopyComplete
+C:\Users\Admin\source\repos\Trybulovych_MFE\Trybulovych_MFE\obj\Debug\Trybulovych_MFE.exe
+C:\Users\Admin\source\repos\Trybulovych_MFE\Trybulovych_MFE\obj\Debug\Trybulovych_MFE.pdb
